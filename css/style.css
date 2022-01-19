@@ -220,19 +220,19 @@ h1, h2, h3 {
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-image: url(/img/background-1.svg);
+  background-image: url(../img/background-1.svg);
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: inherit;
 }
 .features .container .features__content__block:nth-child(2) {
-  background-image: url(/img/background-2.svg);
+  background-image: url(../img/background-2.svg);
 }
 .features .container .features__content__block:nth-child(3) {
-  background-image: url(/img/background-3.svg);
+  background-image: url(../img/background-3.svg);
 }
 .features .container .features__content__block:nth-child(4) {
-  background-image: url(/img/background-4.svg);
+  background-image: url(../img/background-4.svg);
 }
 .features .container .features__content__block img {
   margin-right: 30px;
